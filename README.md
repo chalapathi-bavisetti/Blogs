@@ -9,4 +9,6 @@ http://blog.arungupta.me/microservice-design-patterns/ </br>
 http://java-design-patterns.com/patterns/ </br>
 https://www.producthunt.com/</br>
 https://www.brighttalk.com/</br>
+https://javabrains.io/ </br>
+https://www.codeschool.com/ </br>
 
